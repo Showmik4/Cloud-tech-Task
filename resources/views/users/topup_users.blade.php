@@ -13,7 +13,8 @@
     </table>
 </div>
 <script>
-$(document).ready(function () {
+$(document).ready(function () 
+{
  
     $('#topTopUpUsersTable').DataTable({
         processing: true,
